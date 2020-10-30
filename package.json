@@ -1,0 +1,19 @@
+{
+  "name": "test_circleci",
+  "version": "1.0.0",
+  "description": "test the circleci feature",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshiyuki123/test_circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toshiyuki123/test_circleci/issues"
+  },
+  "homepage": "https://github.com/toshiyuki123/test_circleci#readme"
+}
